@@ -28,8 +28,8 @@ int input(int r, int c)
 
 int main()
 {
-    int row, col;
-    printf("Enter the no. of rows : ");
+    int row, col
+    printf("Enter the no. of rows : ")
     scanf("%d", &row);
     printf("Enter the no. of colounms : ");
     scanf("%d", &col);
